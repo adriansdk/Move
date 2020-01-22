@@ -5,7 +5,7 @@ const Home = props => {
   return (
     <div className="Home">
       <h1>MOVE</h1>
-      <h3>Quem somos</h3>
+      <h3>Quem somoss</h3>
     </div>
   );
 };
